@@ -1,0 +1,29 @@
+# Taller Estructuras Lineales
+
+## Estudiante
+Lenoree Sofia Muñoz López
+
+## Descripción
+Este proyecto contiene diferentes ejercicios de estructuras de datos lineales en Java.
+
+Se desarrollaron ejercicios utilizando:
+- Arreglos unidimensionales
+- ArrayList
+- Matrices
+
+Los programas generan datos aleatorios y muestran los resultados en consola.
+
+## Estructura del proyecto
+
+src/
+- arreglos
+- matrices
+- arraylist
+
+README/
+- README
+## Ejecución
+
+1. Abrir el proyecto en Visual Studio Code o NetBeans.
+2. Compilar la clase deseada.
+3. Ejecutar el programa desde la consola.
